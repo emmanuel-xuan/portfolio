@@ -1,0 +1,11 @@
+.DS_Store
+Thumbs.db
+assets/images/rubiks/
+assets/styles/rubiks.css
+assets/config/rubiks.json
+assets/config/oll_in_one_month.json
+oll_learning.html
+speedcube.html
+.ignore
+assets/scripts/oll.js
+assets/scripts/rubiks.js

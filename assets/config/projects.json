@@ -1,0 +1,407 @@
+[
+    {
+        "id" : "M0Ss3V",
+        "description" : "Présentation du jeu vidéo Monopoly Star Wars™ Heroes vs. Villains édité par Ubisoft. J'ai eu la chance de pouvoir travailler sur la mise en place des scènes de lighting et de compositing.",
+        "artworks" : [
+            {
+                "type" : "youtube",
+                "id" : "0SL_AZSrxw0"
+            },
+            {
+                "type" : "image",
+                "path" : "assets/images/gallery/MENHIR_artemis/boba_boba020_compositing_v007.1001.png",
+                "description" : "Exploration de Split Diopter pour avoir deux plans de focus distinct. Développement sur Nuke avec un node d'Expression pour calculer une double direct Z."
+            },
+            {
+                "type" : "image",
+                "path" : "assets/images/gallery/MENHIR_artemis/boba_boba020_compositing_v007.1092.png",
+                "description" : "Hommage au lighting du film"
+            },
+            {
+                "type" : "image",
+                "path" : "assets/images/gallery/MENHIR_artemis/kyl_kyl050_compositing_v006.1030.png",
+                "description" : ""
+            }
+        ]
+    },
+    {
+        "id" : "SPJaCU",
+        "description" : "Lighting Artist chez DWARF Animation",
+        "artworks" : [
+            {
+                "type" : "youtube",
+                "id" : "Hb9tFzpXZTg"
+            },
+            {
+                "type" : "image",
+                "path" : "assets/images/gallery/DWARF_dad101/vignette.png"
+            }
+        ]
+    },
+    {
+        "id" : "dZqbz2",
+        "description" : "Lighting Artist chez DWARF Animation",
+        "artworks" : [
+            {
+                "type" : "youtube",
+                "id" : "ueYZ_tkHT78"
+            },
+            {
+                "type" : "image",
+                "path" : "assets/images/gallery/DWARF_dad102/vignette.png"
+            }
+        ]
+    },
+    {
+        "id" : "TxEqZ6",
+        "description" : "Court-Métrage co-réalisé en groupe lors de ma troisième année d'étude à l'ESMA. J'ai eu la chance d'avoir pû  élaborer l'ambiance lumineuse du colorscript jusqu'à compositing finale.\n\n\nCG TEAM :\nBENEDETTI Benjamin\nCHARBONNEAU Caroline\nDUBOIS Emmanuel-Xuân\nSAUVAGEOT Héloïse\nZWEIDECK Mathis\n\nSOUND TEAM:\nBURGUIN Angélique\nJOHANSSON Klara\n\nVOICES:\nBOBY Swann\nL'HOURRE Bastien",
+        "artworks" : [
+            {
+                "type" : "vimeo",
+                "id" : "434092374"
+            },
+            {
+                "type" : "image",
+                "path" : "assets/images/gallery/ESMA_bonnepoigne/vignette.jpg",
+                "description" : "Final Shot"
+            },
+            {
+                "type" : "image",
+                "path" : "assets/images/gallery/ESMA_bonnepoigne/Planche_colorscript_v003.jpg",
+                "description" : "Colorscript"
+            },
+            {
+                "type" : "image",
+                "path" : "assets/images/gallery/ESMA_bonnepoigne/Keyshot_sh01_v003.png",
+                "description" : "Concept Art"
+            },
+            {
+                "type" : "image",
+                "path" : "assets/images/gallery/ESMA_bonnepoigne/Master_tavern_Lighting_v003.png",
+                "description" : "Pre Lighting"
+            },
+            {
+                "type" : "image",
+                "path" : "https://cdnb.artstation.com/p/assets/images/images/031/440/239/large/emmanuel-xuan-dubois-credit-outro-title-blue.jpg?1603645832",
+                "description" : ""
+            }
+        ]
+    },
+    {
+        "id" : "bk6Z1S",
+        "description" : "Projet Personnel réalisé à partir d'un concept de Matt Dixon",
+        "artworks" : [
+            {
+                "type" : "image",
+                "path" : "assets/images/gallery/PERSO_rustyRobot/shot01.png",
+                "description" : "Final Shot"
+            },
+            {
+                "type" : "image",
+                "path" : "assets/images/gallery/PERSO_rustyRobot/shot02.jpg",
+                "description" : "Final Shot"
+            },
+            {
+                "type" : "image",
+                "path" : "assets/images/gallery/PERSO_rustyRobot/wireframe.png",
+                "description" : "Wireframe Modeling"
+            },
+            {
+                "type" : "image",
+                "path" : "assets/images/gallery/PERSO_rustyRobot/lookdev_env.jpg",
+                "description" : "Lookdev Environment"
+            },
+            {
+                "type" : "image",
+                "path" : "assets/images/gallery/PERSO_rustyRobot/lookdev_robot.png",
+                "description" : "Lookdev Robot"
+            },
+            {
+                "type" : "image",
+                "path" : "https://cdna.artstation.com/p/assets/images/images/024/387/306/large/emmanuel-xuan-dubois-fc1c4b63c3511fc291bc280869ec5c88-original.jpg?1582235131",
+                "description" : "Concept Original de Matt Dixon"
+            }
+        ]
+    },
+    {
+        "id" : "quhNKv",
+        "description" : "Projets réalisés pendant mes études à l'ESMA Nantes entre 2017 et 2021.",
+        "artworks" : [
+            {
+                "type" : "image",
+                "path" : "https://cdna.artstation.com/p/assets/images/images/009/857/462/large/emmanuel-xuan-dubois-mdl-chaussure.jpg?1521245084",
+                "description" : "La Chaussure - Projet au cours de la première année"
+            },
+            {
+                "type" : "image",
+                "path" : "https://cdnb.artstation.com/p/assets/images/images/011/174/763/large/emmanuel-xuan-dubois-dubois-emmanuel-xuan-ifa-01-mid-ex.jpg?1528219558",
+                "description" : "La Loge d'Artiste - Projet de fin de première année"
+            },
+            {
+                "type" : "image",
+                "path" : "https://cdnb.artstation.com/p/assets/images/images/011/174/777/large/emmanuel-xuan-dubois-dubois-emmanuel-xuan-ifa-02-mid-ex.jpg?1528219599",
+                "description" : "La Loge d'Artiste - Projet de fin de première année"
+            },
+            {
+                "type" : "image",
+                "path" : "https://cdnb.artstation.com/p/assets/images/images/016/067/811/large/emmanuel-xuan-dubois-escargot-comp02.jpg?1550763164",
+                "description" : "Petit projet rapide réalisé pendant l'été entre ma première année et ma deuxième année pour appréhender le futur gros projet phare de la deuxième année"
+            },
+            {
+                "type" : "image",
+                "path" : "https://cdnb.artstation.com/p/assets/images/images/013/268/171/large/emmanuel-xuan-dubois-dubois-emmanuel-xuan-jour-compo.jpg?1538833227",
+                "description" : "Ori and the Blind Forest - Projet d'été donné en tant que devoirs de vacances à la fin de la première année à l'ESMA"
+            },
+            {
+                "type" : "image",
+                "path" : "https://cdna.artstation.com/p/assets/images/images/013/268/188/large/emmanuel-xuan-dubois-dubois-emmanuel-xuan-nuit-compo.jpg?1538830394",
+                "description" : "Ori and the Blind Forest - Projet d'été donné en tant que devoirs de vacances à la fin de la première année à l'ESMA"
+            },
+            {
+                "type" : "youtube",
+                "id" : "DGf_hC9B-n4"
+            },
+            {
+                "type" : "image",
+                "path" : "https://cdnb.artstation.com/p/assets/images/images/016/385/355/large/emmanuel-xuan-dubois-fourmi-fixe-00000.jpg?1551959569",
+                "description" : "Insecte - Projet phare de la deuxième année à l'ESMA"
+            },
+            {
+                "type" : "image",
+                "path" : "https://cdna.artstation.com/p/assets/images/images/016/453/844/large/emmanuel-xuan-dubois-hex-side01.jpg?1552238367",
+                "description" : "Gobber - Premier projet d'apprentissage de Zbrush"
+            },
+            {
+                "type" : "image",
+                "path" : "https://cdnb.artstation.com/p/assets/images/images/016/453/609/large/emmanuel-xuan-dubois-head02-front01.jpg?1552237223",
+                "description" : "Gobber - Premier projet d'apprentissage de Zbrush"
+            },
+            {
+                "type" : "image",
+                "path" : "https://cdnb.artstation.com/p/assets/images/images/018/573/143/large/emmanuel-xuan-dubois-boule-poil.jpg?1559864290",
+                "description" : "Petit projet fun réalisé en cours pour apprendre les bases du fur"
+            },
+            {
+                "type" : "youtube",
+                "id" : "8TTartUfFwg"
+            },
+            {
+                "type" : "youtube",
+                "id" : "yMx0xDxnoxw"
+            },
+            {
+                "type" : "image",
+                "path" : "assets/images/gallery/ESMA_others/vignette.png",
+                "description" : "Modélisation d'un véhicule, le but étant de l'intégrer sur un décors tracké"
+            },
+            {
+                "type" : "youtube",
+                "id" : "uzzhdKwcbug"
+            },
+            {
+                "type" : "youtube",
+                "id" : "ZArc3XJ8yZ8"
+            }
+        ]
+    },
+    {
+        "id" : "DZ3o0w",
+        "description" : "Autoportrait réalisé pendant ma troisième année à l'ESMA. Apprentissage du texturing et du shading de peau réaliste.",
+        "artworks" : [
+            {
+                "type" : "image",
+                "path" : "https://cdnb.artstation.com/p/assets/images/images/025/657/525/large/emmanuel-xuan-dubois-59.jpg?1586508991",
+                "description" : "Final Render"
+            },
+            {
+                "type" : "image",
+                "path" : "https://cdnb.artstation.com/p/assets/images/images/025/657/535/large/emmanuel-xuan-dubois-56-gray.jpg?1586509020",
+                "description" : "Gray Render"
+            },
+            {
+                "type" : "image",
+                "path" : "https://cdna.artstation.com/p/assets/images/images/025/657/548/large/emmanuel-xuan-dubois-49-cinemascope.jpg?1586509092",
+                "description" : "Close Up"
+            },
+            {
+                "type" : "image",
+                "path" : "https://cdnb.artstation.com/p/assets/images/images/025/657/541/large/emmanuel-xuan-dubois-58.jpg?1586509035",
+                "description" : ""
+            },
+            {
+                "type" : "image",
+                "path" : "https://cdna.artstation.com/p/assets/images/images/025/657/566/large/emmanuel-xuan-dubois-07.jpg?1586509142",
+                "description" : ""
+            }
+        ]
+    },
+    {
+        "id" : "oGltzd",
+        "description" : "Intérprétation 3D d'un environnement de la série Wakfu d'Ankama réalisé par Stéphane Baton",
+        "artworks" : [
+            {
+                "type" : "image",
+                "path" : "https://cdnb.artstation.com/p/assets/images/images/061/686/015/large/emmanuel-xuan-dubois-sybannaks-house-master-comp-v014-0001.jpg?1681391765",
+                "description" : "Final Render"
+            },
+            {
+                "type" : "image",
+                "path" : "https://cdna.artstation.com/p/assets/images/images/061/686/022/large/emmanuel-xuan-dubois-sybannaks-house-night-master-comp-v0014-0001.jpg?1681391775",
+                "description" : "Final Render"
+            },
+            {
+                "type" : "image",
+                "path" : "https://cdnb.artstation.com/p/assets/images/images/061/686/027/large/emmanuel-xuan-dubois-sybannaks-house-master-gray-v0013-0001.jpg?1681391784",
+                "description" : "Gray Render"
+            },
+            {
+                "type" : "image",
+                "path" : "https://cdna.artstation.com/p/assets/images/images/061/686/044/large/emmanuel-xuan-dubois-sybannaks-house-master-raw-v0013-0001.jpg?1681391803",
+                "description" : "Raw Render"
+            },
+            {
+                "type" : "image",
+                "path" : "https://cdnb.artstation.com/p/assets/images/images/061/686/677/large/emmanuel-xuan-dubois-sybannaks-house-layoutrender-v001-master-comp-0001.jpg?1681392999",
+                "description" : "WIP layout lighting"
+            },
+            {
+                "type" : "image",
+                "path" : "https://cdnb.artstation.com/p/assets/images/images/061/686/031/large/emmanuel-xuan-dubois-stephane-baton-01-wakfu-bg-sybannak-s-house-stephane-baton.jpg?1681391791",
+                "description" : "Concept Art de Référence par Stéphane Baton"
+            }
+        ]
+    },
+    {
+        "id" : "IpPbhB",
+        "description" : "Projet Personnel d'environnement d'après un concept art de Vanessa Palmer.\nRéalisé intégralement dans Houdini pour la génération de la végétation.",
+        "artworks" : [
+            {
+                "type" : "image",
+                "path" : "assets/images/gallery/PERSO_queensGarden/final_render.png",
+                "description" : "Final Render"
+            },
+            {
+                "type" : "image",
+                "path" : "assets/images/gallery/PERSO_queensGarden/gray_render.png",
+                "description" : "Gray Render"
+            },
+            {
+                "type" : "image",
+                "path" : "https://cdnb.artstation.com/p/assets/images/images/009/773/909/large/vanessa-palmer-bfa2018-gardenforest-ver10sm.jpg?1520837623",
+                "description" : "Concept Art de référence par Vanessa Palmer"
+            }
+        ]
+    },
+    {
+        "id" : "xGLWIe",
+        "description" : "En charge du Lookdev du mascara ainsi qu'au lighting du produit et de la mascaroad",
+        "artworks" : [
+            {
+                "type" : "youtube",
+                "id" : "FMgDOFwLPDc"
+            }
+        ]
+    },
+    {
+        "id" : "sqdkVk",
+        "description" : "Inspiré du livre \"Raytracing in One Weekend\" de Peter Shirley, j'ai décidé d'aller plus loin en adaptant la logique en VEX en sein de Houdini grâce aux nœuds Wrangle.",
+        "artworks" : [
+            {
+                "type" : "text",
+                "balise" : "h2",
+                "text" : "Pourquoi en VEX?"
+            },
+            {
+                "type" : "text",
+                "balise" : "p",
+                "text" : "L'avantage de développer ce projet dans Houdini a été d'avoir un espace 3D déjà conçu, ainsi qu'une gestion des géométries et des intersections déjà présente. J'ai pû intégralement me concentrer sur l'élaboration du tracer de rayon et pouvoir suivre visuellement chaque rayon lancé. Ceci m'a permit de bien comprendre les concepts de shading et m'a donné une meilleur compréhension des moteurs de rendu commercialisé sur le marché."
+            },
+            {
+                "type" : "image",
+                "path" : "assets/images/gallery/DEV_raytracing/simple_tracer_v23_beauty_comp.0001.jpg",
+                "description" : "Rendu de la scène \"Kitchen\" de Renderman"
+            },
+            {
+                "type" : "image",
+                "path" : "assets/images/gallery/DEV_raytracing/cornellbox_001.png",
+                "description" : "Setup rendu avec en entrée, une grid simulant un capteur de caméra"
+            },
+            {
+                "type" : "text",
+                "balise" : "h2",
+                "text" : "Comment ça marche?"
+            },
+            {
+                "type" : "text",
+                "balise" : "p",
+                "text" : "Le setup général est principalement basé sur une grille de \"primitive\" correspondant à chaque pixel de rendu, le node Wrange en mode \"primitive\" calcule le code pixel par pixel et est par défaut Multithread, ce qui rajoute une optimisation de Houdini supplémentaire."
+            },
+            {
+                "type" : "text",
+                "balise" : "p",
+                "text" : "La deuxième entrée et celle des géométries à rendre, celles sur qui l'intersection des rayons s'effectuera. Les lumières sont quant à elles \"merge\" avec les géometries car celles-ci sont elles aussi en intersection avec les rayons, mais possèdent une propriété supplémentaire qui permet de les rendres en tant que source de lumière."
+            },
+            {
+                "type" : "text",
+                "balise" : "p",
+                "text" : "La description des shaders sont écrit directement sur les vertices et seront récupérer facilement lors de l'intersection avec un rayon via primuv()."
+            },
+            {
+                "type" : "image",
+                "path" : "assets/images/gallery/DEV_raytracing/pathtracer_v5_beauty_comp.0001.jpg",
+                "description" : ""
+            },
+            {
+                "type" : "image",
+                "path" : "assets/images/gallery/DEV_raytracing/simple_tracer_v16_beauty.0001.jpg",
+                "description" : ""
+            },
+            {
+                "type" : "image",
+                "path" : "assets/images/gallery/DEV_raytracing/pathtracer_v6_beauty_comp.0001.jpg",
+                "description" : "Lentille avec bokeh en oeil de chat"
+            },
+            {
+                "type" : "text",
+                "balise" : "p",
+                "text" : "L'idée de la simulation de lentille n'est pas nouvelle, l'effet \"cateyes bokeh\" a fait l'objet de longue recherche sur Nuke dans un premier temps, puis dans l'intégration de mon premier raytracer en C.\n\nLe défi ici était de reproduire le comportement d'une convolution 2D mais adapté à du lancé de rayon tout en prenant compte des performances."
+            },
+            {
+                "type" : "image",
+                "path" : "assets/images/gallery/DEV_raytracing/simple_tracer_v14_beauty.0001.jpg",
+                "description" : ""
+            },
+            {
+                "type" : "image",
+                "path" : "assets/images/gallery/DEV_raytracing/dielectric_001.png",
+                "description" : "Exploration de shader diéléctrique"
+            },
+            {
+                "type" : "image",
+                "path" : "assets/images/gallery/DEV_raytracing/subsurface_scattering_001.png",
+                "description" : "Exploration de shader SSS"
+            },
+            {
+                "type" : "text",
+                "balise" : "h2",
+                "text" : "Et les performances?"
+            },
+            {
+                "type" : "text",
+                "balise" : "p",
+                "text" : "Oui"
+            }
+        ]
+    },
+    {
+        "id" : "RieE0e",
+        "description" : "J'ai principalement participer au début de prodution à l'élaboration du style graphique et à la mise en place du workflow sur Houdini et Nuke. J'ai également été présent sur la fin pour finir et optimiser les rendus des derniers plans.\n\nCollaboration très étroite avec le FX Artist pour permettre de rendre et d'améliorer les visuels de chaque plans.",
+        "artworks" : [
+            {
+                "type" : "text",
+                "balise" : "h2",
+                "text" : "Contenu Confidientiel"
+            }
+        ]
+    }
+]

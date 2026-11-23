@@ -1,0 +1,96 @@
+#block-gallery
+{
+    padding: 3em;
+}
+
+.grid
+{
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1vw;
+
+    margin: 2em 0 5em 0;
+}
+
+
+.grid-item
+{
+    position: relative;
+}
+
+.container-vignette
+{
+    position: relative;
+    display: block;
+    overflow: hidden;
+    border-radius: .25em;
+    /* container-type: inline-size; */
+}
+
+
+.item-text
+{
+    padding: 2vw;
+    padding-bottom: 0.5vw;
+
+    position: absolute;
+    inset: 0;
+
+    color: white;
+    text-align: left;
+    background-color: rgb(0, 0, 0, 0.25);
+
+    display: flex;
+    flex-direction: column;
+
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity .3s ease, visibility .3s ease;
+}
+
+.container-vignette:hover .item-text
+{
+    opacity: 1;
+    visibility: visible;
+}
+
+
+.item-img img
+{
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    
+    object-fit: cover;
+    display: block;
+    transition: transform 0.4s ease;
+}
+
+.item-text h3
+{
+    font-family: "Manrope";
+    font-size: 1.5cqw;
+}
+
+.item-text p
+{
+    text-align: left;
+    font-family: "Montserrat";
+    font-size: .75cqw;
+}
+
+.item-departement
+{
+    margin-top: auto;
+    font-style: italic;
+}
+
+.item-img
+{
+    width: 100%;
+}
+
+.container-vignette:hover img
+{
+    transform: scale(1.03);
+}

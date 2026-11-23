@@ -1,0 +1,112 @@
+[
+    {
+        "client" : "Strobe",
+        "client_logo" : "",
+        "role" : "Houdini Generalist / Lighting / Compositing Artist",
+        "start_date" : "2026-1",
+        "end_date" : "2026-10",
+        "description" : "",
+        "projects" : [],
+        "type" : "xp"
+    },
+    {
+        "client" : "Menhir FX",
+        "client_logo" : "",
+        "role" : "Lighting / Compositing Artist",
+        "start_date" : "2025-11",
+        "end_date" : "2025-12",
+        "description" : "",
+        "projects" : [],
+        "type" : "xp"
+    },
+    {
+        "client" : "Monarch TV",
+        "client_logo" : "",
+        "role" : "Houdini Generalist / Lighting / Compositing Artist",
+        "start_date" : "2024-3",
+        "end_date" : "2025-5",
+        "description" : "",
+        "projects" : [],
+        "type" : "xp"
+    },
+    {
+        "client" : "BlueZoo Animation Studio",
+        "client_logo" : "",
+        "role" : "Mid Lighting Artist",
+        "start_date" : "2023-6",
+        "end_date" : "2024-2",
+        "description" : "",
+        "projects" : [],
+        "type" : "xp"
+    },
+    {
+        "client" : "Milky Co. Studio",
+        "client_logo" : "",
+        "role" : "Groom Artist",
+        "start_date" : "2023-2",
+        "end_date" : "2023-3",
+        "description" : "",
+        "projects" : [],
+        "type" : "xp"
+    },
+    {
+        "client" : "Dwarf Animation Studio",
+        "client_logo" : "",
+        "role" : "Junior Lighting Artist",
+        "start_date" : "2022-1",
+        "end_date" : "2023-1",
+        "description" : "",
+        "projects" : [],
+        "type" : "xp"
+    },
+    {
+        "client" : "Supamonks Studio",
+        "client_logo" : "",
+        "role" : "Junior Lighting / Compositing Artist",
+        "start_date" : "2021-10",
+        "end_date" : "2021-12",
+        "description" : "• Lighting | Rendering | Compositing - TV show\nMaya - Vray - Nuke\n\n(Some 2D fx's on nuke and little wave fx on houdini)",
+        "projects" : [],
+        "type" : "xp"
+    },
+    {
+        "client" : "IXOR Visual FX",
+        "client_logo" : "",
+        "role" : "Stagiaire Généraliste 3D",
+        "start_date" : "2019-7",
+        "end_date" : "2019-9",
+        "description" : "CG generalist\n\n• Museum full CG film\n\n- lookdev\n- lighting\n- compositing\n\n• Advertising spots\n\n- lookdev\n- compositing | rotoscoping | keying | integration | grading\n\n• VFX Feature Film\n\n- lighting | matchplate\n- compositing | integration\n\n• Mobile Game\n\n- modeling\n- surfacing",
+        "projects" : [],
+        "type" : "xp"
+    },
+    {
+        "client" : "ESMA Nantes",
+        "client_logo" : "",
+        "role" : "3D Animation",
+        "start_date" : "2017-9",
+        "end_date" : "2021-7",
+        "description" : "",
+        "projects" : [],
+        "type" : "edu"
+    },
+    {
+        "client" : "ESMA Nantes",
+        "client_logo" : "",
+        "role" : "Mise à Niveau en Art Appliqués",
+        "start_date" : "2016-9",
+        "end_date" : "2017-7",
+        "description" : "",
+        "projects" : [],
+        "type" : "edu"
+    },
+    {
+        "client" : "Bellecour Ecole",
+        "client_logo" : "",
+        "role" : "Bachelor 3D Art et Animation 3D",
+        "start_date" : "2015-9",
+        "end_date" : "2016-7",
+        "description" : "",
+        "projects" : [],
+        "type" : "edu"
+    }
+]

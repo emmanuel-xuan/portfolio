@@ -1,0 +1,37 @@
+{
+    "header" : [
+        {
+            "name" : "Accueil",
+            "link" : "index.html"
+        },
+        {
+            "name" : "À Propos",
+            "link" : "about.html"
+        },
+        {
+            "name" : "Contact",
+            "link" : "contact.html"
+        }
+    ],
+
+    "footer" : [
+        {
+            "name" : "artstation",
+            "link" : "https://www.artstation.com/ashimara",
+            "active" : "assets/icons/artstation.png",
+            "inactive" : "assets/icons/artstation_grey.png"
+        },
+        {
+            "name" : "instagram",
+            "link" : "https://www.instagram.com/emmanuel_xuan",
+            "active" : "assets/icons/instagram.png",
+            "inactive" : "assets/icons/instagram_grey.png"
+        },
+        {
+            "name" : "linkedin",
+            "link" : "https://www.linkedin.com/in/emmanuel-xuan-dubois-70761bbb/",
+            "active" : "assets/icons/linkedin_color.png",
+            "inactive" : "assets/icons/linkedin_grey.png"
+        }
+    ]
+}

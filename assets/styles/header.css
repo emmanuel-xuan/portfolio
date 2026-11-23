@@ -1,0 +1,29 @@
+.banniere
+{
+    padding: 3em;
+    background-image: url("../../assets/images/banniere02.jpg");
+    background-size: cover;
+    background-position: center;
+    block-size: 15em;
+    /* margin-bottom: 1em; */
+}
+
+header
+{
+    font-family: "Montserrat";
+    color: white;
+}
+
+.block-menu
+{
+    margin-top: 2em;
+}
+
+.menu
+{
+    font-family: "Manrope";
+    font-weight: 600;
+    margin: 1em 1em 1em 0em;
+    color: white;
+    text-decoration: none;
+}

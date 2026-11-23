@@ -1,0 +1,122 @@
+[
+    {
+        "id" : "M0Ss3V",
+        "title" : "Monopoly: Star Wars™ Heroes vs. Villains",
+        "client" : "Menhir FX",
+        "description" : "Trailer de jeu vidéo réalisé au sein de l'équipe du studio Menhir FX",
+        "vignette" : "assets/images/gallery/MENHIR_artemis/vignette.png",
+        "departement" : ["lighting", "compositing"],
+        "software" : ["Houdini", "Redshift", "Nuke"]
+    },
+    {
+        "id" : "RieE0e",
+        "title" : "Futuroscope: Pulse! L'Odyssée Electrique",
+        "client" : "Menhir FX",
+        "description" : "Réalisation d'un film projeté dans une salle interactive du Futuroscope à 360°",
+        "vignette" : "assets/images/gallery/MENHIR_futuro/vignette.jpg",
+        "departement" : ["lighting", "compositing"],
+        "software" : ["Houdini", "Redshift", "Nuke"]
+    },
+    {
+        "id" : "xGLWIe",
+        "title" : "Lancôme Idôle",
+        "client" : "Strobe",
+        "description" : "Réalisation d'un modèle 3D du mascara de Lancôme",
+        "vignette" : "assets/images/gallery/STROBE_medlay/lancome_idole_curl.png",
+        "departement" : ["lookdev", "lighting", "compositing"],
+        "software" : ["Houdini", "Redshift", "Nuke"]
+    },
+    {
+        "id" : "IpPbhB",
+        "title" : "Queen's Garden",
+        "description" : "Projet personnel entièrement réalisé sous Houdini pour apprendre la modélisation et la génération procédurale",
+        "vignette" : "assets/images/gallery/PERSO_queensGarden/vignette.png",
+        "departement" : ["all aspect"],
+        "software" : ["Houdini", "Karma", "Nuke"]
+    },
+    {
+        "id" : "OljAkE",
+        "title" : "Custom Camera Lens for Karma",
+        "description" : "Developpement d'un shader caméra pour faire l'effet: Swirly Bokeh",
+        "vignette" : "assets/images/gallery/DEV_karmaLens/vignette.png",
+        "departement" : ["dev"],
+        "software" : ["Houdini", "Karma", "CVEX"]
+    },
+    {
+        "id" : "sqdkVk",
+        "title" : "VEX Pathtracer",
+        "description" : "Création et exploration d'un pathtracer naïf entrièrement réalisé en VEX dans Houdini",
+        "vignette" : "assets/images/gallery/DEV_raytracing/vignette.png",
+        "departement" : ["dev"],
+        "software" : ["Houdini", "VEX"]
+    },
+    {
+        "id" : "oGltzd",
+        "title" : "Sybannak's House",
+        "description" : "Projet personnel basé sur une illustration de la série Wakfu",
+        "vignette" : "assets/images/gallery/PERSO_sybannak/vignette.jpg",
+        "departement" : ["all aspect"],
+        "software" : ["Houdini", "Renderman", "Substance Painter", "Nuke"]
+    },
+    {
+        "id" : "dZqbz2",
+        "title" : "My Dad the Bounty Hunter\nSaison 2",
+        "client" : "Dwarf Animation",
+        "description" : "Lighting Artist chez Dwarf Animation sur la série Netflix: My Dad the Bounty Hunter",
+        "vignette" : "assets/images/gallery/DWARF_dad102/vignette.png",
+        "departement" : ["lighting"],
+        "software" : ["Maya", "Renderman"]
+    },
+    {
+        "id" : "SPJaCU",
+        "title" : "My Dad the Bounty Hunter\nSaison 1",
+        "description" : "Lighting Artist chez Dwarf Animation sur la série Netflix: My Dad the Bounty Hunter",
+        "vignette" : "assets/images/gallery/DWARF_dad101/vignette.png",
+        "departement" : ["lighting"],
+        "software" : ["Maya", "Renderman"]
+    },
+    {
+        "id" : "cisCmu",
+        "title" : "Molly et son Chat",
+        "client" : "ESMA Nantes",
+        "description" : "Film de fin d'étude co-réalisé lors de ma dernière année d'étude à l'ESMA Nantes.",
+        "vignette" : "assets/images/gallery/ESMA_molly/vignette.png",
+        "departement" : ["color script", "modeling", "groom", "shading", "lighting", "compositing", "animation"],
+        "software" : ["Maya", "Renderman", "Substance Painter", "Nuke"]
+    },
+    {
+        "id" : "TxEqZ6",
+        "title" : "Bonne Poigne",
+        "client" : "ESMA Nantes",
+        "description" : "Film de fin d'année co-réalisé lors de ma troisième année d'étude à l'ESMA Nantes.",
+        "vignette" : "assets/images/gallery/ESMA_bonnepoigne/vignette.jpg",
+        "departement" : ["color script", "chara modeling", "groom", "shading", "lighting", "compositing"],
+        "software" : ["Maya", "Renderman", "Substance Painter", "Nuke"]
+    },
+    {
+        "id" : "DZ3o0w",
+        "title" : "Selfportrait",
+        "client" : "ESMA Nantes",
+        "description" : "Projet de troisième année d'école réalisé à l'ESMA pour apprendre à texturer un humain",
+        "vignette" : "assets/images/gallery/ESMA_selfportrait/vignette.jpg",
+        "departement" : ["all aspect"],
+        "software" : ["Maya", "Renderman", "Mari", "Nuke"]
+    },
+    {
+        "id" : "quhNKv",
+        "title" : "ESMA Medley Projets",
+        "client" : "ESMA Nantes",
+        "description" : "Projets étudiant réalisés au cours de mes études",
+        "vignette" : "assets/images/gallery/ESMA_others/vignette.jpg",
+        "departement" : ["all aspect"],
+        "software" : ["Maya", "Renderman", "Nuke"]
+    },
+    {
+        "id" : "bk6Z1S",
+        "title" : "Rusty Robot",
+        "description" : "Projet personnel rapide réalisé à partir d'un dessin de Matt Dixon",
+        "vignette" : "assets/images/gallery/PERSO_rustyRobot/vignette.png",
+        "departement" : ["all aspect"],
+        "software" : ["Maya", "Renderman", "Substance Painter", "Nuke"]
+    }
+]

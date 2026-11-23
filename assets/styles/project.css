@@ -1,0 +1,153 @@
+#project
+{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    min-height: 100svh;
+}
+
+#block-head
+{
+    background-color: rgb(240 240 240);
+    color: rgb(50 50 50);
+    padding-top: 3em;
+    padding-bottom: 1em;
+    font-family: "Manrope";
+}
+
+
+#block-title
+{
+    margin-left: 3em;
+    margin-right: 3em;
+}
+
+#block-title h1
+{
+    font-family: "Montserrat";
+}
+
+#block-description
+{
+    display: flex;
+    flex-direction: row;
+    margin: 3em;
+}
+
+#block-details
+{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    flex: 1;
+}
+
+#project-description
+{
+    text-align: right;
+    max-width: 50vw;
+    padding-left: 5em;
+}
+
+
+#project-gallery
+{
+    padding: 5em 10em 0 10em;
+}
+
+
+.container-artwork
+{
+    position: relative;
+
+    width: 100%;
+    max-width: 75vw;
+    margin: 0 auto 5vw auto;
+}
+
+.artwork
+{
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.artwork-video
+{
+    width: 100%;
+    height: auto;
+    aspect-ratio: 16 / 9;
+    border: 0;
+    display: block;
+}
+
+.container-hover
+{
+    position: absolute;
+    inset: 0;
+
+    color: white;
+    text-align: left;
+
+    opacity: 0;
+    transition: opacity .3s ease;
+    display: flex;
+}
+
+.container-artwork:hover .container-hover
+{
+    opacity: 1;
+}
+
+.artwork-description
+{
+    width: 100%;
+    padding: 1em 3em 1em 3em;
+    margin-top: auto;
+    background-color: rgb(0, 0, 0, 0.75);
+    font-family: "Manrope";
+    text-align: left;
+}
+
+.text-item
+{
+    font-family: "Manrope";
+}
+
+
+
+#block-end
+{
+    /* background-color: rgb(240 240 240); */
+    padding: 2em 10em 2em 10em;
+    /* max-width: 75vw; */
+
+    display: flex;
+    flex-wrap: nowrap;
+
+    margin-top: auto;
+}
+
+.project-nav
+{
+    font-size: 1.25em;
+    text-decoration: none;
+    color: rgb(50 50 50);
+
+    flex: 1;
+}
+
+#project-prev
+{
+    text-align: left;
+}
+
+#project-home
+{
+    text-align: center;
+}
+
+#project-next
+{
+    text-align: right;
+}

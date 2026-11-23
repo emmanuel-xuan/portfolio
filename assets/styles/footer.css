@@ -1,0 +1,66 @@
+footer
+{
+    background-color: rgb(16 16 16);
+    color: white;
+    font-family: "Jetbrains Mono";
+    font-size: .75em;
+    padding: 3em 0em 1em 0em;
+    margin-top: auto;
+}
+
+.block-footer
+{
+    padding: 0em 2em 2em 5em;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+
+.container-picto
+{
+    width: 5em;
+    height: 5em;
+    position: relative;
+}
+
+.pic-active
+{
+    display: flex;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    align-items: end;
+    justify-content: left;
+    display: none;
+}
+.pic-inactive
+{
+    display: flex;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    align-items: end;
+    justify-content: left;
+    display: flex;
+}
+
+
+.container-picto:hover .pic-active
+{
+    display: flex;
+}
+.container-picto:hover .pic-inactive
+{
+    display: none;
+}
+
+#copyright
+{
+    text-align: center;
+    padding-top: 1.5em;
+}
