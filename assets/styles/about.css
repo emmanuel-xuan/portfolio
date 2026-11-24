@@ -59,3 +59,23 @@
     font-weight: 400;
     margin-top: 2rem;
 }
+
+#section-contact
+{
+    background-color: rgb(240 240 240);
+    margin: 5vh;
+    padding: 2rem;
+}
+
+#section-contact a
+{
+    color: rgb(16 16 16);
+    text-decoration: none;
+    overflow-wrap: anywhere;
+}
+
+.sep
+{
+    height: 2rem;
+    margin: auto;
+}

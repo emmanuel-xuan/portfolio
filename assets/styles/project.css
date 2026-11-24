@@ -151,3 +151,163 @@
 {
     text-align: right;
 }
+
+
+/* ========================================
+   RESPONSIVE - PROJECT
+======================================== */
+
+@media screen and (max-width: 900px) {
+
+    #block-title {
+        margin-left: 2rem;
+        margin-right: 2rem;
+    }
+
+    #block-description {
+        margin: 2rem;
+        gap: 2rem;
+    }
+
+    #project-description {
+        max-width: 55%;
+        padding-left: 1rem;
+    }
+
+    #project-gallery {
+        padding: 3rem 3rem 0 3rem;
+    }
+
+    .container-artwork {
+        max-width: 100%;
+        margin-bottom: 3rem;
+    }
+
+    #block-end {
+        padding: 2rem 3rem;
+    }
+
+}
+
+/* MOBILE */
+
+@media screen and (max-width: 600px) {
+
+    #project {
+        width: 100%;
+    }
+
+    #block-head {
+        padding: 2rem 1.25rem;
+    }
+
+    #block-title {
+        margin: 0;
+    }
+
+    #block-title h1 {
+        font-size: clamp(1.6rem, 7vw, 2.2rem);
+        line-height: 1.2;
+    }
+
+    #block-title h2 {
+        font-size: 1.1rem;
+        margin-top: 0.5rem;
+    }
+
+    #block-description {
+        flex-direction: column;
+        margin: 1.75rem 0 0 0;
+        gap: 1.5rem;
+    }
+
+    #block-details {
+        flex: none;
+    }
+
+    #block-details h3 {
+        font-size: 0.95rem;
+        padding-bottom: 0.35rem;
+    }
+
+    #block-details p {
+        font-size: 0.9rem;
+    }
+
+    #project-description {
+        max-width: none;
+        padding: 0;
+        text-align: left;
+        font-size: 0.95rem;
+        line-height: 1.6;
+    }
+
+    #project-gallery {
+        padding: 1.25rem 1rem 0 1rem;
+    }
+
+    .container-artwork {
+        width: 100%;
+        max-width: 100%;
+        margin: 0 auto 2rem auto;
+    }
+
+    .artwork {
+        width: 100%;
+        height: auto;
+        display: block;
+    }
+
+    .artwork-video {
+        width: 100%;
+        aspect-ratio: 16 / 9;
+    }
+
+    .container-hover {
+        position: static;
+        opacity: 1;
+        display: block;
+        /* color: inherit; */
+    }
+
+    .artwork-description {
+        /* padding: 0.85rem 0; */
+        margin-top: 0;
+        /* background-color: transparent; */
+        /* color: inherit; */
+        font-size: 0.85rem;
+        line-height: 1.5;
+        border-radius: 0 0 .35rem .35rem;
+        background-color: rgb(16 16 16);
+    }
+
+    .text-item {
+        font-size: 0.9rem;
+        line-height: 1.6;
+    }
+
+    #block-end {
+        padding: 1.5rem 1rem;
+        flex-wrap: wrap;
+        gap: 1rem;
+    }
+
+    .project-nav {
+        font-size: 0.8rem;
+        min-width: 0;
+        overflow-wrap: anywhere;
+    }
+
+    #project-prev {
+        text-align: left;
+    }
+
+    #project-home {
+        text-align: center;
+    }
+
+    #project-next {
+        text-align: right;
+    }
+
+}

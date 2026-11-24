@@ -27,3 +27,52 @@ header
     color: white;
     text-decoration: none;
 }
+
+/* ========================================
+   RESPONSIVE - HEADER
+======================================== */
+
+@media screen and (max-width: 900px) {
+
+    .banniere {
+        padding: 2rem;
+        block-size: auto;
+        min-height: 13rem;
+    }
+
+}
+
+@media screen and (max-width: 600px) {
+
+    .banniere {
+        padding: 2rem 1rem;
+        min-height: 12rem;
+        background-position: center;
+        /* text-align: center; */
+    }
+
+    .banniere h1 {
+        font-size: clamp(1.5rem, 7vw, 2rem);
+        line-height: 1.2;
+    }
+
+    .banniere h2 {
+        font-size: clamp(0.85rem, 3.5vw, 1.1rem);
+        margin-top: 0.5rem;
+    }
+
+    .block-menu {
+        margin-top: 1.5rem;
+        display: flex;
+        /* justify-content: center; */
+        flex-wrap: wrap;
+        gap: 0.75rem 1rem;
+    }
+
+    .menu {
+        margin: 0;
+        font-size: 0.85rem;
+        white-space: nowrap;
+    }
+
+}
