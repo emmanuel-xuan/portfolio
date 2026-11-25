@@ -1,5 +1,13 @@
 [
     {
+        "id" : "3zmXl0",
+        "title" : "Projets Perso Non-Fini et R&D",
+        "description" : "Tous mes projets perso commencés et non-fini...",
+        "vignette" : "assets/images/gallery/PERSO_others/vignette.jpg",
+        "departement" : ["all aspect"], 
+        "software" : ["Maya", "Houdini", "Renderman", "Karma", "Nuke"]
+    },
+    {
         "id" : "M0Ss3V",
         "title" : "Monopoly: Star Wars™ Heroes vs. Villains",
         "client" : "Menhir FX",

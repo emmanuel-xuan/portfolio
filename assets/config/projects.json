@@ -1,5 +1,201 @@
 [
     {
+        "id" : "cisCmu",
+        "description" : "Court-Métrage co-réalisé en groupe lors de ma dernière année d'étude à l'ESMA.",
+        "artworks" : [
+            {
+                "type" : "youtube",
+                "id" : "8uj0Vy8oMkw"
+            },
+            {
+                "type" : "image",
+                "path" : "assets/images/gallery/ESMA_molly/molly_00008755.png",
+                "description" : ""
+            },
+            {
+                "type" : "image",
+                "path" : "assets/images/gallery/ESMA_molly/seq001sh020_fixe_00096.png",
+                "description" : "Plan clé du film"
+            },
+            {
+                "type" : "image",
+                "path" : "assets/images/gallery/ESMA_molly/keyshot01.png",
+                "description" : "Concept Art"
+            },
+            {
+                "type" : "image",
+                "path" : "assets/images/gallery/ESMA_molly/research_mood01.png",
+                "description" : "Recherche d'ambiance"
+            },
+            {
+                "type" : "image",
+                "path" : "assets/images/gallery/ESMA_molly/research_mood02.png",
+                "description" : "Recherche d'ambiance"
+            },
+            {
+                "type" : "image",
+                "path" : "assets/images/gallery/ESMA_molly/molly_00000520.png",
+                "description" : ""
+            },
+            {
+                "type" : "image",
+                "path" : "assets/images/gallery/ESMA_molly/molly_00001270.png",
+                "description" : ""
+            },
+            {
+                "type" : "image",
+                "path" : "assets/images/gallery/ESMA_molly/molly_00001325.png",
+                "description" : ""
+            },
+            {
+                "type" : "image",
+                "path" : "assets/images/gallery/ESMA_molly/keyshot02.png",
+                "description" : "Colorscript"
+            },
+            {
+                "type" : "image",
+                "path" : "assets/images/gallery/ESMA_molly/molly_00003195.png",
+                "description" : ""
+            },
+            {
+                "type" : "image",
+                "path" : "assets/images/gallery/ESMA_molly/molly_00003655.png",
+                "description" : ""
+            },
+            {
+                "type" : "image",
+                "path" : "assets/images/gallery/ESMA_molly/molly_00003875.png",
+                "description" : ""
+            },
+            {
+                "type" : "image",
+                "path" : "assets/images/gallery/ESMA_molly/molly_00004440.png",
+                "description" : ""
+            },
+            {
+                "type" : "image",
+                "path" : "assets/images/gallery/ESMA_molly/molly_00004585.png",
+                "description" : ""
+            },
+            {
+                "type" : "image",
+                "path" : "assets/images/gallery/ESMA_molly/molly_00004850.png",
+                "description" : ""
+            },
+            {
+                "type" : "image",
+                "path" : "assets/images/gallery/ESMA_molly/molly_00005000.png",
+                "description" : ""
+            },
+            {
+                "type" : "image",
+                "path" : "assets/images/gallery/ESMA_molly/molly_00007405.png",
+                "description" : ""
+            },
+            {
+                "type" : "image",
+                "path" : "assets/images/gallery/ESMA_molly/molly_00008355.png",
+                "description" : ""
+            },
+            {
+                "type" : "image",
+                "path" : "assets/images/gallery/ESMA_molly/molly_00008445.png",
+                "description" : ""
+            }
+        ]
+    },
+    {
+        "id" : "3zmXl0",
+        "description" : "Projets probablement abandonnés ou qui ont servit de R&D",
+        "artworks" : [
+            {
+                "type" : "image",
+                "path" : "assets/images/gallery/PERSO_others/rnd_underwater.beauty.0003.png",
+                "description" : "R&D d'environnement sous l'eau pour peut-être un futur projet pour la sortie du prochain jeu pokémon Vent et Vague"
+            },
+            {
+                "type" : "image",
+                "path" : "assets/images/gallery/PERSO_others/legoBatman_render_v002.lens.0001.png",
+                "description" : "Projet initialement rendu sur Guerilla Render pour apprendre le logiciel, puis projet totalement abandonné. Reprit récement avec une migration sur Karma Render en USD pour me permettre de développer mon lensShader de caméra pour créer un \"Swirly Bokeh\""
+            },
+            {
+                "type" : "image",
+                "path" : "assets/images/gallery/PERSO_others/beach_render_v002.beauty_lens_tmp6ba.0001.png",
+                "description" : ""
+            },
+            {
+                "type" : "image",
+                "path" : "assets/images/gallery/PERSO_others/lochundr_comp_v001.png",
+                "description" : "Projet environnement d'après concept art"
+            },
+            {
+                "type" : "image",
+                "path" : "assets/images/gallery/PERSO_others/lava_v001.comp.0160.png",
+                "description" : "Simulation Flip Solver pour apprendre le transfert de temperature multi fluides"
+            },
+            {
+                "type" : "image",
+                "path" : "assets/images/gallery/PERSO_others/ghibli_layout_15_comp.0001.png",
+                "description" : "Projet environnement d'après le film: \"Château Ambulant\" du studio Ghibli"
+            },
+            {
+                "type" : "image",
+                "path" : "assets/images/gallery/PERSO_others/bus_merry_comp_v001.png",
+                "description" : "Lighting study d'après concept art"
+            },
+            {
+                "type" : "image",
+                "path" : "assets/images/gallery/PERSO_others/sand_closeup_v004_raw.0001.jpg",
+                "description" : "Etude de scatter/shading de sable"
+            },
+            {
+                "type" : "image",
+                "path" : "assets/images/gallery/PERSO_others/sand_closeup_v001.0002.jpg",
+                "description" : "Etude de scatter/shading de sable"
+            },
+            {
+                "type" : "image",
+                "path" : "assets/images/gallery/PERSO_others/forest_setDress_v009_sunset.0001.png",
+                "description" : "Test d'environnement et du moteur 3delight"
+            },
+            {
+                "type" : "image",
+                "path" : "assets/images/gallery/PERSO_others/forest_setDress_v009_overcast.0001.png",
+                "description" : "Test d'environnement et du moteur 3delight"
+            },
+            {
+                "type" : "image",
+                "path" : "assets/images/gallery/PERSO_others/seq001sh010_day_natural_v001.png",
+                "description" : "Petit projet d'après concept art réalisé sur Maya avec MASH"
+            },
+            {
+                "type" : "image",
+                "path" : "assets/images/gallery/PERSO_others/goat_06.JPG",
+                "description" : "Projet qui devait m'entrainer au groom"
+            },
+            {
+                "type" : "image",
+                "path" : "assets/images/gallery/PERSO_others/snwoflakes_04_v002.png",
+                "description" : ""
+            },
+            {
+                "type" : "image",
+                "path" : "assets/images/gallery/PERSO_others/lego_02_v002.png",
+                "description" : ""
+            },
+            {
+                "type" : "image",
+                "path" : "assets/images/gallery/PERSO_others/viking_04_v002.png",
+                "description" : "Challenge sur le thème: Viking"
+            },
+            {
+                "type" : "image",
+                "path" : "assets/images/gallery/PERSO_others/chibiKyubi04_scope.png",
+                "description" : "Petit projet non fini pour m'entrainer avant mon film de fin d'étude"
+            }
+        ]
+    },
+    {
         "id" : "M0Ss3V",
         "description" : "Présentation du jeu vidéo Monopoly Star Wars™ Heroes vs. Villains édité par Ubisoft. J'ai eu la chance de pouvoir travailler sur la mise en place des scènes de lighting et de compositing.",
         "artworks" : [
@@ -35,6 +231,50 @@
             {
                 "type" : "image",
                 "path" : "assets/images/gallery/DWARF_dad101/vignette.png"
+            },
+            {
+                "type" : "image",
+                "path" : "assets/images/gallery/DWARF_dad101/DAD105_006_0050.png"
+            },
+            {
+                "type" : "image",
+                "path" : "assets/images/gallery/DWARF_dad101/DAD105_006_0080.png"
+            },
+            {
+                "type" : "image",
+                "path" : "assets/images/gallery/DWARF_dad101/DAD105_006_0090.png"
+            },
+            {
+                "type" : "image",
+                "path" : "assets/images/gallery/DWARF_dad101/DAD105_012_0020.png"
+            },
+            {
+                "type" : "image",
+                "path" : "assets/images/gallery/DWARF_dad101/DAD105_015_0060.png"
+            },
+            {
+                "type" : "image",
+                "path" : "assets/images/gallery/DWARF_dad101/DAD106_015_0070.png"
+            },
+            {
+                "type" : "image",
+                "path" : "assets/images/gallery/DWARF_dad101/DAD108_004_0010.png"
+            },
+            {
+                "type" : "image",
+                "path" : "assets/images/gallery/DWARF_dad101/DAD108_004_0090.png"
+            },
+            {
+                "type" : "image",
+                "path" : "assets/images/gallery/DWARF_dad101/DAD109_003_0010.png"
+            },
+            {
+                "type" : "image",
+                "path" : "assets/images/gallery/DWARF_dad101/DAD109_012_0030.png"
+            },
+            {
+                "type" : "image",
+                "path" : "assets/images/gallery/DWARF_dad101/DAD109_012_0070.png"
             }
         ]
     },
